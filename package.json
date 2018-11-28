@@ -2,7 +2,7 @@
   "name": "myapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ArtemUstilov.github.io/test/",
+  "homepage": "https://ArtemUstilov.github.io/shop/",
   "dependencies": {
     "classnames": "^2.2.5",
     "gh-pages": "^2.0.1",
